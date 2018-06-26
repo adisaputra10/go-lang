@@ -1,6 +1,6 @@
 # go-lang
 
-Ikutin Instruksi di bawah ini
+Ikutin Instruksi di bawah ini <br>
 cd ~ <br>
 nano .profile<br>
 export GOROOT=/vagrant/go <br>
